@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="45px" viewBox="0 0 35 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>snake</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="⚠️Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop" transform="translate(-40.000000, -9979.000000)" fill="#72DA38">
+            <g id="section-module1" transform="translate(0.000000, 9979.000000)">
+                <g id="title" transform="translate(40.000000, 0.000000)">
+                    <g id="snake">
+                        <g id="brand/snake" transform="translate(0.000000, 37.000000)">
+                            <rect id="body" x="0" y="5" width="34.9306931" height="1" rx="0.5"></rect>
+                            <circle id="head" cx="32.5" cy="5.5" r="2.5"></circle>
+                        </g>
+                        <rect id="Rectangle-10" x="0" y="0" width="1" height="43" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
